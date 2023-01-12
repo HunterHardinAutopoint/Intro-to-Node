@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "18.13.0",
+  "description": "Simple Web App",
+  "main": "hello_world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HunterHardinAutopoint/Intro-to-Node.git"
+  },
+  "author": "Hunter Hardin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HunterHardinAutopoint/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/HunterHardinAutopoint/Intro-to-Node#readme"
+}
