@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HunterHardinAutopoint/Intro-to-Node/issues"
   },
-  "homepage": "https://github.com/HunterHardinAutopoint/Intro-to-Node#readme"
+  "homepage": "https://github.com/HunterHardinAutopoint/Intro-to-Node#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
 }
